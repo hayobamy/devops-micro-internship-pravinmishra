@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Lawal Ayobami |
+| **LinkedIn** | (https://www.linkedin.com/in/lawal-ayobami/) |
+| **Location** | Lagos , Nigeria |
+| **Background** | Computer science graduate and ICT officer with hands-on IT experience. I’d started learning DevOps before but found it overwhelming without structure, so I’m restarting with the DevOps Micro Internship and building real projects from the ground up. |
+| **Goal** | To land a junior DevOps / cloud engineer role next year by building and documenting real projects, one week at a time.|
 
 ---
 
