@@ -59,7 +59,9 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+If someone in the USA wants to visit EpicReads, they can simply type the website address into their browser. DNS helps find the IP address of the server where the website is hosted in Finland.
+TCP/IP helps the user's device communicate with the server and ensures data gets to the right place. With packet switching, the data is broken into smaller packets that travel across different networks until they reach Finland, where they are put back together.
+HTTP/HTTPS allows the browser and server to exchange information and load the website. HTTPS also helps protect users' information, especially when they log in or make payments. Once everything is complete, the EpicReads website appears in the user's browser, and they can start browsing and buying books.
 
 ---
 
