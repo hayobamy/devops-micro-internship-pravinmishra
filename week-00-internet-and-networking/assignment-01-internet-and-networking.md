@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+Today, I learned that a network protocol is simply a set of rules that helps devices communicate with each other. I also learned that protocols like HTTP help my browser communicate with websites. It’s like people using a common language to understand each other.
 
 ---
 
