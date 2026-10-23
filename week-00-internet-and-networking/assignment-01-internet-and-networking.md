@@ -144,7 +144,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) works like the internet’s phonebook. People find it easier to remember a name like epicreads.com than a number, so DNS translates the name into the server’s IP address.
+
+For EpicReads, my friend should use an A record to point epicreads.com to 52.172.142.222. An A record connects a domain directly to an IPv4 address, which is what we have here. DNS doesn’t deal with port 3000, though. That part is set up separately on the server.
 
 ---
 
