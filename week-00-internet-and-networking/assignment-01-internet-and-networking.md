@@ -241,7 +241,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/erB_g93Q
 ```
 
 ---
@@ -250,27 +250,66 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 My DevOps Learning Journey: Understanding the Basics of Networking and Application Architecture
 
----
+As part of my DevOps learning journey, I've been exploring some important concepts that help me understand how applications work and communicate over the internet.
+
+Here are some of my key takeaways:
+
+1. ChatGPT 🤖
+
+I learned how to use ChatGPT as a learning assistant to break down technical concepts, ask questions, and understand unfamiliar topics in simple terms.
+
+2. Internet & Networking 🌐
+
+I learned that a network protocol is a set of rules that allows devices to communicate with each other. I also explored how packet switching, IP addresses, TCP/IP, and HTTP/HTTPS work together to help users access websites across different locations.
+
+3. App Architecture 🏗️
+
+I explored the difference between two-tier and three-tier application architectures.
+
+Two-tier: Frontend communicates directly with the Database.
+
+Three-tier: Frontend communicates with the Backend, which then communicates with the Database.
+
+I also learned about common technologies used in each layer, such as React, Node.js, MySQL, and PostgreSQL.
+
+4. DNS 🌍
+
+I learned that DNS (Domain Name System) works like the phonebook of the internet. It translates domain names into IP addresses. For example, an A record can connect EpicReads.com to its server IP address.
+
+5. VS Code Setup 💻
+
+I practised setting up my development environment in VS Code on Windows, cloning a GitHub repository, navigating into the project directory, and opening the project using code ..
+
+Final Thoughts
+
+One thing I'm beginning to understand is that DevOps is not just about learning tools. It's also about understanding how everything works together.
+
+I'm taking it one step at a time, learning, practising, and building my knowledge along the way. 🚀
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/hayobamy.html
+
+Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced
+
+#DMIByPravinMishra #AgenticAI #DevOps Pravin Mishra
 
 # Reflection – Week 0
 
 ### What did you find easy?
 
-Add your answer here...
+I found ChatGPT easy to use
 
 ---
 
 ### What was difficult?
-
-Add your answer here...
+Drawing the architecture diagrams was difficult
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week I will set a daily study time
 
 ---
 
