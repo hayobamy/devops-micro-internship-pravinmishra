@@ -62,7 +62,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-![AWS Account Screenshot](./Screenshots/task-3-aws-account.png)
+![AWS Account Screenshot](./Screenshots/task-3-aws-account.png.png)
 ---
 
 # Task 4 — Share Your AWS Cloud Onboarding Progress
