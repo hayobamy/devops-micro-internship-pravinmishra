@@ -89,7 +89,7 @@ Copy the production build files to the Nginx web root directory.
 
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
-Add your screenshot here.
+(./Screenshots/React_var_html.png)
 
 ---
 
