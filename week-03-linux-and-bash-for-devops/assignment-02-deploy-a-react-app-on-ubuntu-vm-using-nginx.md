@@ -123,7 +123,7 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+(./Screenshots/React_Curl.png)
 
 ---
 
