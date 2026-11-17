@@ -133,7 +133,7 @@ Verify the React application is publicly accessible via the server's public IP.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+(https://lnkd.in/p/dujr837Q)
 
 ---
 
