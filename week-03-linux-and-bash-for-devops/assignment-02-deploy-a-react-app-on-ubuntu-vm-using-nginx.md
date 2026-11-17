@@ -139,7 +139,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
+![Screenshot](./Screenshots/linkedin_deploy.png)
 
 ---
 
