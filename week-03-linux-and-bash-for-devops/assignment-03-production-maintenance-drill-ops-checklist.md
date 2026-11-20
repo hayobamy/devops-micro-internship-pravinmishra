@@ -73,19 +73,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
+![Screenshot](./Screenshots/nginx_status.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
+![Screenshot](./Screenshots/nginx-t.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
+![Screenshot](./Screenshots/nginx.config.png)
 
 ---
 
@@ -95,13 +95,18 @@ Answer the following in your own words:
 
 **1. What happens if Nginx fails to restart in production?**
 
-Write your answer here.
+If Nginx fails to restart, the application may become unavailable because the web server cannot serve incoming requests.
 
 ---
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
+Keep a backup of the previous working application files.
+Deploy the new application version.
+Test the application to confirm everything works.
+If the new deployment fails, restore the previous working files.
+Reload or restart Nginx if necessary.
+Verify that the previous version is accessible again.
 
 ---
 
