@@ -172,25 +172,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+![Screenshot](./Screenshots/uptime.png)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+![Screenshot](./Screenshots/free-h.png)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+![Screenshot](./Screenshots/du-h.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
+![Screenshot](./Screenshots/du-sh.png)
 
 ---
 
@@ -200,13 +200,12 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+Disk space, because 60% is already used, with only 2.7 GB remaining. CPU and memory usage are currently okay.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
-
-Write your answer here.
+The server may stop saving files and logs. Applications and services may fail or become unavailable.
 
 ---
 
