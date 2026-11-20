@@ -178,13 +178,13 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 2 — Output of `free -h`
 
-![Screenshot](./Screenshots/free-h.png)
+![Screenshot](./Screenshots/free_h.png)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-![Screenshot](./Screenshots/du-h.png)
+![Screenshot](./Screenshots/df_h.png)
 
 ---
 
