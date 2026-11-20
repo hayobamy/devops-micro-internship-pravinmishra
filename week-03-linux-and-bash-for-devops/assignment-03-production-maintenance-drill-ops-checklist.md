@@ -38,7 +38,7 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-![Screenshot](./Screenshots/React_Deployment.png)
+![Screenshot](./Screenshots/React_status.png)
 
 ---
 
