@@ -120,19 +120,19 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
+![Screenshot](./Screenshots/nginx_access.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+![Screenshot](./Screenshots/nginx_error.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+![Screenshot](./Screenshots/nginx_journal.png)
 
 ---
 
@@ -147,17 +147,18 @@ Answer the following in your own words:
 
 Write your answer here.
 
+The Nginx error log showed only a [notice] message when the service restarted, not an actual error. However, the access log recorded some 400 and 405 responses from external requests. These were mainly invalid requests and automated bot probes, not evidence that my application had failed.
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+It indicates that Nginx was starting and stopping successfully, and there were no reported service failures in the logs I checked. The 400 and 405 responses came from requests made by external clients, rather than necessarily indicating a problem with my server.
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes. After running curl http://localhost, I checked the Nginx access log and confirmed that the request appeared. It showed that traffic was reaching Nginx and that the server was recording incoming requests.
 
 ---
 
