@@ -48,20 +48,19 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+Two things prove it: 0.0.0.0:80 in the Local Address column, and nginx in the Process column. The 0.0.0.0 means it accepts connections on all of the server’s network addresses. There’s also a [::]:80 line, which is the same thing for IPv6.
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+Port 22 in the Local Address column and sshd (the SSH service) in the Process column prove it. There’s also a matching [::]:22 line for IPv6. For extra proof, you can run systemctl is-active ssh, which should print active.
 
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
-
+Nothing unexpected. Besides 80 and 22, the other entries are normal
 ---
 
 # Task 2 — Service Health & Systemd Validation (Nginx)
